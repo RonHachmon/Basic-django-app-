@@ -1,4 +1,4 @@
-# beyond-tutorial
+# beyond-practice
 A basic django app using for parctice using  the tools: 
 * [Git](https://git-scm.com/)
 * [GitHub](https://github.com/)
